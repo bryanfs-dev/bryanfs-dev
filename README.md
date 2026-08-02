@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Bryan Fernandes, 17 anos, dev backend em formação cursando desenvolvimento de sistemas.</p>
+<p align="left">Sou Bryan Fernandes, 17 anos, software engineer em formação cursando desenvolvimento de sistemas 2/3 ETEC.</p>
 
 ###
 
