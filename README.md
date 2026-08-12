@@ -28,9 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
 
@@ -42,7 +39,7 @@
 <div data-importer="stats" align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=bryanfs-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanfs-dev&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/bryanfs-dev/bryanfs-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
