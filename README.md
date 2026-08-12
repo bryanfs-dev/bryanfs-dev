@@ -36,21 +36,24 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img
-    width="400"
-    height="150"
-    src="https://ghstats.dev/api/card?username=bryanfs-dev&theme=tokyonight&hide_border=true&show_icons=true"
-    alt="GitHub stats"
-  />
-
-  <img
-    width="400"
-    height="150"
-    src="https://raw.githubusercontent.com/bryanfs-dev/bryanfs-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    alt="languages graph"
-  />
-</div>
+<table data-importer="stats">
+  <tr>
+    <td>
+      <img
+        width="470"
+        src="https://ghstats.dev/api/card?username=bryanfs-dev&theme=tokyonight&hide_border=true&show_icons=true"
+        alt="GitHub stats"
+      />
+    </td>
+    <td>
+      <img
+        width="320"
+        src="https://raw.githubusercontent.com/bryanfs-dev/bryanfs-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+        alt="languages graph"
+      />
+    </td>
+  </tr>
+</table>
 
 ###
 
