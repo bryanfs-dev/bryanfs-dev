@@ -41,14 +41,14 @@
     <td>
       <img
         width="470"
-        src="https://ghstats.dev/api/card?username=bryanfs-dev&theme=midnight-purple&hide_border=true&show_icons=true&hide=trend,followers,avg,grade,active_day,week"
+        src="https://ghstats.dev/api/card?username=bryanfs-dev&theme=tokyonight&bg=000000&hide_border=true&show_icons=true&hide=trend,followers,avg,grade,active_day,week"
         alt="GitHub stats"
       />
     </td>
     <td>
       <img
         width="320"
-        src="https://raw.githubusercontent.com/bryanfs-dev/bryanfs-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false"
+        src="https://raw.githubusercontent.com/bryanfs-dev/bryanfs-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false"
         alt="languages graph"
       />
     </td>
