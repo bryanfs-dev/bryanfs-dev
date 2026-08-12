@@ -37,16 +37,28 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=bryanfs-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img
+    height="150"
+    src="https://ghstats.dev/api/card?username=bryanfs-dev&theme=tokyonight&hide_border=true&show_icons=true"
+    alt="GitHub stats"
+  />
 
-  <img src="https://raw.githubusercontent.com/bryanfs-dev/bryanfs-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img
+    src="https://raw.githubusercontent.com/bryanfs-dev/bryanfs-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    height="150"
+    alt="languages graph"
+  />
 </div>
 
 ###
 
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/bryan-fernandes-dos-santos-9716613b9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="linkedin logo"
+    />
   </a>
 </div>
 
@@ -54,6 +66,10 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/bryanfs-dev/bryanfs-dev/snake-output/snake.svg" alt="Snake animation" />
+<img
+  data-importer="snake"
+  src="https://raw.githubusercontent.com/bryanfs-dev/bryanfs-dev/snake-output/snake.svg"
+  alt="Snake animation"
+/>
 
 ###
