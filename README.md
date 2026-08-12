@@ -41,7 +41,7 @@
     <td>
       <img
         width="470"
-        src="https://ghstats.dev/api/card?username=bryanfs-dev&theme=tokyonight&hide_border=true&show_icons=true"
+        src="https://ghstats.dev/api/card?username=bryanfs-dev&theme=tokyonight&hide_border=true&show_icons=true&hide=trend,followers,avg,grade,active_day,week"
         alt="GitHub stats"
       />
     </td>
@@ -72,9 +72,9 @@
 <br clear="both">
 
 <img
-  data-importer="snake"
-  src="https://raw.githubusercontent.com/bryanfs-dev/bryanfs-dev/snake-output/snake.svg"
-  alt="Snake animation"
+data-importer="snake"
+src="https://raw.githubusercontent.com/bryanfs-dev/bryanfs-dev/snake-output/snake.svg"
+alt="Snake animation"
 />
 
 ###
